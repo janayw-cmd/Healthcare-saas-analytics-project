@@ -16,4 +16,15 @@ Is workforce adoption balanced across roles, or are certain groups underutilizin
 What trends in user activity suggest risks of churn or opportunities for growth?
 - The Active User Rate by Month line chart highlights fluctuations in engagement. Peaks and dips may correspond to seasonal healthcare cycles or product updates, offering opportunities to investigate drivers of user behavior
 
+What is the total revenue generated, and how does it break down by hospital size?
+- Revenue Performance: The platform generated 14M in total revenue, with hospital sizes contributing differently: Medium hospitals (6.4M) lead, followed by Large (4.8M) and Small (3.2M). This segmentation highlights where the most financial value lies.
 
+What percentage of accounts are being renewed, pending, or churned?
+- Renewal Health: The Renewal Rate of 66% indicates that two-thirds of accounts are being retained. However, 9 churned accounts represent a significant risk, especially when combined with pending renewals.
+- Revenue by Renewal Status: The pie chart shows 70% of revenue is secured through renewals, while 15% is pending and 15% is churned.
+
+Which regions contribute the most revenue, and where are growth opportunities?
+- The Revenue by Region bar chart reveals that the Northeast (4.5M) and Midwest (3.5M) are the strongest contributors, while the South (3M) and West (2.5M) lag behind. 
+
+How does renewal performance fluctuate over time, and what patterns suggest risk or opportunity?
+- The Renewal Rate by Month line chart shows fluctuations across 2023, with peaks in January, March, and June, and dips in May and September. These patterns may reflect contract cycles, seasonal hospital budgets, or external market factors. Monitoring these trends helps anticipate renewal challenges and plan interventions.
