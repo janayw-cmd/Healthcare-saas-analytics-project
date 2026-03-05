@@ -1,7 +1,19 @@
-# Key Insights
+Key Insights
 
-## Are users actively engaging with the platform after onboarding?
+Are users actively engaging with the platform after onboarding?
+- Overall Adoption: With 2K total users and an Active User Rate of 75%, the platform demonstrates strong engagement. The high proportion of active users suggests effective onboarding and sustained usage.
+- Departmental Usage: The pie chart shows Oncology (21.7%), Radiology (20.3%), ER (20.1%), ICU (19.7%), and Cardiology (18.3%) as nearly evenly engaged. This balance indicates broad relevance of the platform across clinical departments, reducing dependency on a single specialty.
 
-- Overall Adoption: With 2K total users and an Active User Rate of 75%, the platform demonstrates strong engagement. The high proportion of active users suggests effective onboarding and sustained usage
+Which regions and departments show the strongest adoption, and where is improvement needed?
+- Regional Engagement: The breakdown of active vs inactive users by region reveals adoption differences. For example, the South and West regions show stronger activity compared to the Northeast and Midwest, guiding targeted retention strategies.
+
+How efficiently does the platform convert user activity into revenue (ARPU)?
+- Revenue Efficiency: The ARPU of 9.07K highlights the financial value generated per user, a critical SaaS metric that connects user activity to business outcomes.
+
+Is workforce adoption balanced across roles, or are certain groups underutilizing the system?
+- Workforce Composition: The distribution of 542 Admins, 534 Nurses, and 513 Doctors shows balanced adoption across roles, ensuring the platform supports diverse healthcare functions.
+
+What trends in user activity suggest risks of churn or opportunities for growth?
+- The Active User Rate by Month line chart highlights fluctuations in engagement. Peaks and dips may correspond to seasonal healthcare cycles or product updates, offering opportunities to investigate drivers of user behavior
 
 
