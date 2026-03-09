@@ -62,7 +62,8 @@ The dashboard helps translate raw data into a visual format that supports data-d
 ## Dashboard Preview
 
 <img <img width="1408" height="787" alt="Healthcare" src="https://github.com/user-attachments/assets/77161111-a2fc-4521-bb1b-074b7d8bb8b7" />
-<img width="1408" height="787" alt="Healthcare" src="https://github.com/user-attachments/assets/f6d2829b-0244-4e0c-bf0f-262eda9a9a6a" />
+<img width="1402" height="798" alt="Healthcare2" src="https://github.com/user-attachments/assets/f03da9db-3d91-4b03-bd2e-6550b3914c1f" />
+
 
 
 ## Key Insights:
